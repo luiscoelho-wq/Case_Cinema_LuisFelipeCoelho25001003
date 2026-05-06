@@ -1,7 +1,7 @@
-## 2.1. Caso de Uso: Agendar Sessão (Resumo)
+## 1. Caso de Uso: Agendar Sessão  
 
-**Ator:** Funcionário / Administrador 
-**Objetivo:** Criar um novo horário de filme na sala.
+**Ator:** Funcionário / Administrador   
+**Objetivo:** Criar um novo horário de filme na sala.  
 
 **Passo a Passo:**
 1. O funcionário escolhe o **Filme**, a **Sala** e a **Hora**.
